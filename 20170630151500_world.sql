@@ -1,4 +1,4 @@
-INSERT INTO `migrations` VALUES ('20170630170000'); 
+INSERT INTO `migrations` VALUES ('20170630151500'); 
 
 -- Set ItemeLevel for Manaweave Robe (ID: 7509) to 15:
 UPDATE item_template SET ItemLevel = 15 WHERE entry = 7509;
